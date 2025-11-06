@@ -2,7 +2,8 @@
 
  Clean and efficient configuration for C code development.
 
-This repository holds my personal, easy-to-read Vim configuration (`.vimrc`). It's optimized for a **distraction-free C programming environment**.
+This repository holds my personal, easy-to-read Vim configuration (`.vimrc`). It's optimized for a **distraction-free C programming environment**. 
+[ To copy my config you need to add . Before vimrc ]
 
 ---
 
